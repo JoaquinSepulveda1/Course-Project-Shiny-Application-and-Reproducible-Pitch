@@ -7,4 +7,4 @@ Github Repository: https://github.com/JoaquinSepulveda1/Course-Project-Shiny-App
 
 Shiny Application: https://joaquinsepulveda.shinyapps.io/peer/?_ga=2.28119996.1458695858.1624210026-1817511704.1624210026
 
-R Presentation: 
+R Presentation: https://rpubs.com/joaquinsepulveda/783681
